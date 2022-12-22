@@ -5,22 +5,22 @@
 
 Основная таблица
 
-![a](https://github.com/AnnaS33/GUI2/blob/master/image/1.png)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/1.png)
 
 Работа первой кнопки - вернуть колонку name
 
-![a](https://github.com/AnnaS33/GUI2/blob/master/image/2.png)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/2.png)
 
 Работа второй кнопки кнопки - вернуть колонку колонку с разницей между колонками weight и desired weight
 
-![a](https://github.com/AnnaS33/GUI2/blob/master/image/3.png)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/3.png)
 
 Работа третьей кнопки кнопки - вернуть колонки birthday и favorite dish, отсортированные по birthday
 
-![a](https://github.com/AnnaS33/GUI2/blob/master/image/4.png)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/4.png)
 
 Выбор с помощью QComboBox
 
-![a](https://github.com/AnnaS33/GUI2/blob/master/image/5.png)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/5.png)
 
 
