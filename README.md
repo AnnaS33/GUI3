@@ -5,7 +5,7 @@
 
 Основная таблица
 
-![a](https://github.com/AnnaS33/GUI3/tree/master/image/1.PNG)
+![a](https://github.com/AnnaS33/GUI3/blob/master/image/1.PNG)
 
 Работа первой кнопки - вернуть колонку name
 
